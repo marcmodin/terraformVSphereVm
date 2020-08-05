@@ -1,8 +1,5 @@
 # VSphere Virtual Machine Terraform Module
 
-[Example](#example)
-[Default Inputs](#default-inputs)
-
 This repo contains a Terraform module to provison VSphere VM's cloned from a template.
 
 ### Who maintains this Module?
